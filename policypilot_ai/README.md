@@ -554,6 +554,7 @@ A `.devcontainer/devcontainer.json` is included for VS Code / GitHub Codespaces:
 
 ## 👥 Team
 
+
 Built with ❤️ at **AI Hackathon 2026** by:
 
 <table>
@@ -564,18 +565,18 @@ Built with ❤️ at **AI Hackathon 2026** by:
   </tr>
 </table>
 
----
+---=
 
 ## 📝 License
 
 This project was built at the **Atomcamp AI Hackathon 2026**. Please contact the team for licensing inquiries.
 
----
+----
 
 <p align="center">
   <b>PolicyPilot AI</b> — Because compliance shouldn't be a bottleneck. ✈️
 </p>
 
 <p align="center">
-  <sub>Powered by 🤖 Google Gemini 2.5 Flash · 🦜 LangChain · 🎈 Streamlit · 🔍 FAISS</sub>
+  <sub>Powered by 🤖 Google Gemini 2.5 Flash · 🦜 LangChain ·  🎈 Streamlit · 🔍 FAISS</sub>
 </p>
